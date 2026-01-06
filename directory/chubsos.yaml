@@ -1,0 +1,16 @@
+url: "https://chubs.tubsandchubs.com"
+name: "ChubsOS"
+description: "an aging millennial's html playground paradise"
+owner: "christa@tilde.club"
+owner_type: "e-mail"
+color: "#ffb3db"
+website_categories:
+  - "personal"
+  - "writing"
+  - "life"
+  - "fun_web_projects"
+  - "personal_links"
+  - "blog"
+ringlets:
+  - "personal-sites"
+  - "queer"
